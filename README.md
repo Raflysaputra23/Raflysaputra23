@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raflysaputra23.
 - 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning React js, Next Js, Expres Js.
+- 🌱 I’m currently learning React js, Next Js, Expres Js, And C++.
 - 📫 How to reach me in Instagram : raflyyyyyyyy23
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding is really fun
