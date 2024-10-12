@@ -4,6 +4,7 @@
 - 📫 How to reach me in Instagram : raflyyyyyyyy23
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding is really fun
+- ⚡ My skill is HTML, CSS, JS, PHP, MYSQL.
 
 <!---
 Hallo, everyone. 
