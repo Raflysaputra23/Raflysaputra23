@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Raflysaputra23.<br>- 👀 I’m interested in Web Developer.<br>- 🌱 I’m currently learning React js, Next Js, Expres Js, And C++.<br>- 📫 How to reach me in Instagram : raflyyyyyyyy23<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: coding is really fun<br>- ⚡ My skill is HTML, CSS, JS, PHP, MYSQL, Node JS, Express JS<br>
+- 👋 Hi, I’m @Raflysaputra23.<br>- 👀 I’m interested in Web Developer.<br>- 🌱 I’m currently learning React js, Next Js, Expres Js, And C++.<br>- 📫 How to reach me in Instagram : raflyyyyyyyy23<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: coding is really fun<br>- ⚡ My skill is HTML, CSS, JS, PHP, MYSQL, Node JS, Express JS, Next JS, React JS, Mongo DB, Firebase, Tailwind CSS<br>
 
 
 ## 🌐 Socials:
